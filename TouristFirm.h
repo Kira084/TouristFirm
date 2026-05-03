@@ -15,9 +15,5 @@ public:
 	void showAll();
 	void addTour();
 	void deleteTour();
-	void findTour();
-	void sortByDirection();
-	void sortByFare();
-
 };
 
